@@ -2,7 +2,8 @@ body {
     margin: 0%;
     padding: 0%;
     height: 689px;
-    background-image: linear-gradient(to bottom right, rgb(248, 10, 129), rgb(255, 102, 0));
+    background-image: linear-gradient(to bottom right, rgb(0, 238, 255), rgb(75, 177, 28));
+    /* background-image: linear-gradient(to right top, #11afbe, #00aaeb, #009aff, #9c75ff, #ff00d3); */
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -18,7 +19,7 @@ table td {
 }
 
 input[type=text] {
-    background-image: linear-gradient(to bottom right, rgb(212, 0, 106), rgb(255, 102, 0));
+    background-image: linear-gradient(to bottom right, rgb(0, 238, 255), rgb(75, 177, 28));
     font-size: 50px;
     width: 100%;
     border: none;
